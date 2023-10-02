@@ -9,4 +9,5 @@ This website proposes demonstration of algorithms
 * [kd-trees](https://playwithalgos.github.io/kdtrees/public)
 * [Decision tree learning](https://playwithalgos.github.io/decisiontreelearning/)
 * [KNN](https://playwithalgos.github.io/knn)
+* [Play with flow in a network](https://playwithalgos.github.io/flow)
 * [Simplex](https://playwithalgos.github.io/simplex)
