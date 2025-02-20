@@ -1,6 +1,6 @@
 # Welcome to playwithalgos.github.io!
 
-This website proposes demonstration of algorithms
+This website proposes demonstrations of many algorithms and data structures.
 
 ## Data-structures
 
