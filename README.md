@@ -11,14 +11,14 @@ This website proposes demonstrations of many algorithms and data structures.
 
 ## Algorithms
 
-* [Boyer-Moore Horspool algorithm](https://github.com/playwithalgos/boyer-moore-horspool)
+* [Boyer-Moore Horspool algorithm](https://playwithalgos.github.io/boyer-moore-horspool)
 * [Gale-Shapley algorithm](https://playwithalgos.github.io/gale-shapley/public)
 * [Play with flow in a network](https://playwithalgos.github.io/flow)
 * [Simplex](https://playwithalgos.github.io/simplex)
 
 ## Logic
 
-* [Quantification elimination in real number first-order theory](https://github.com/playwithalgos/realqelim)
+* [Quantification elimination in real number first-order theory](https://playwithalgos.github.io/realqelim)
 
 
 ## Machine learning
