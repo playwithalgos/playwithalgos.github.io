@@ -16,6 +16,10 @@ This website proposes demonstrations of many algorithms and data structures.
 * [Play with flow in a network](https://playwithalgos.github.io/flow)
 * [Simplex](https://playwithalgos.github.io/simplex)
 
+## Logic
+
+* [Quantification elimination in real number first-order theory](https://github.com/playwithalgos/realqelim)
+
 
 ## Machine learning
 
